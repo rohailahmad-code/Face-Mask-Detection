@@ -12,11 +12,16 @@ Face Mask Detection is a computer vision-based deep learning project that aims t
 - High accuracy and performance with optimized model
 - Easy-to-use interface with minimal setup
 
+## Dataset
+
+The dataset used for this project can be downloaded from [Kaggle - Face Mask Detection Dataset](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection).  
+It contains images with annotated bounding boxes for people wearing masks, not wearing masks, and wearing masks incorrectly.
+
 ## Technologies Used
 
 - Python
 - OpenCV
 - TensorFlow / Keras
 - NumPy
-- Pretrained deep learning models (e.g., MobileNetV2)
+- Pretrained deep learning models
 
